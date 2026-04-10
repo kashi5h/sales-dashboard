@@ -2,7 +2,7 @@
    SMART SALES INSIGHT DASHBOARD — app.js
    ════════════════════════════════════════ */
 
-const API = 'http://localhost:5000/api';
+const API = 'https://sales-dashboard-3h67.onrender.com/api';
 
 // Chart instances (to destroy before re-render)
 let charts = {};
